@@ -1,0 +1,45 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(122, 114, 114);
+    text-align: center;
+    border-radius: 0%;
+}
+
+button{
+    background-color: rgb(170, 0, 248);
+border-radius: 10px;
+}
+
+hr{
+    background-color: rgb(0, 0, 0);
+}
+
+header{
+    background-color: aliceblue;
+}
+
+table{
+    border-radius: 5%;
+    background-color: papayawhip;
+}
+
+h1.sombra{
+    text-shadow: 3px 2px red;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+h1{
+    text-decoration: underline;
+}
